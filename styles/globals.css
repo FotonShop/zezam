@@ -62,13 +62,13 @@ a {
   animation-iteration-count: infinite;
   animation-direction: alternate;
   position: absolute;
-  animation-duration: 2s;
+  animation-duration: 4s;
 }
 
 @keyframes MoveUpDown {
   0%,
   100% {
-    transform: translateY(-280px);
+    transform: translateY(-290px);
   }
   50% {
     transform: translateY(-300px);

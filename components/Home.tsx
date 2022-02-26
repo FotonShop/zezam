@@ -221,7 +221,7 @@ const Home = (props: HomeProps) => {
         <Image
           className="move-img"
           // borderRadius={1000}
-          alt="golden acess"
+          alt="golden access"
           loading="lazy"
           width={600}
           height={600}
