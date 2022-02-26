@@ -57,7 +57,7 @@ a {
   ) !important;
 }
 
-.move-img {
+/* .move-img {
   animation: MoveUpDown;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -73,7 +73,7 @@ a {
   50% {
     transform: translateY(-300px);
   }
-}
+} */
 
 @font-face {
   font-family: "Monst-Medium";
